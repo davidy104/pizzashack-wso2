@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><resource name="pizzashack-springmediator.xml" isCollection="false" path="/_system/config/custom/pizzashack-wso2-spring/pizzashack-registry-resource/pizzashack-springmediator.xml" registryUrl="https://localhost:9443/registry" md5="b4cd8262418a6daa668849653b643ee6">
+    <mediaType>application/xml</mediaType>
+    <version>1844</version>
+    <creator>admin</creator>
+    <createdTime>1394504350890</createdTime>
+    <lastUpdater>admin</lastUpdater>
+    <lastModified>1394504350890</lastModified>
+    <registryState>1</registryState>
+    <description/>
+</resource>

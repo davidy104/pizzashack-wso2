@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackBillingEP.esb=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackBillingEP.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackByIdEP.esb=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackByIdEP.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackListEP.esb=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackListEP.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_BillingJmsProxy.esb=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_BillingJmsProxy.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackByIdProxy.esb=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackByIdProxy.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackListCustomProxy.esb=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackListCustomProxy.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/synapse1.esb=UTF-8
+encoding//src/main/graphical-synapse-config/synapse1.esb_diagram=UTF-8
