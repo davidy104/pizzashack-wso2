@@ -6,16 +6,14 @@ import org.apache.synapse.mediators.AbstractMediator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class PizzashackSearchByIdRecieveMediator extends AbstractMediator {
+public class PizzashackOrderRequestInterceptor extends AbstractMediator {
+
 	private static final Logger LOGGER = LoggerFactory
-			.getLogger(PizzashackSearchByIdRecieveMediator.class);
+			.getLogger(PizzashackOrderRequestInterceptor.class);
 
 	public boolean mediate(MessageContext context) {
-		LOGGER.info("PizzashackSearchByIdRecieveMediator start:{} ");
+		LOGGER.info("PizzashackOrderRequestInterceptor start:{} ");
 		LOGGER.info("MessageContext:{} ", context);
-		// SynapseConfiguration config = context.getConfiguration();
-		// LOGGER.info("config:{} ", config);
-
 		String messageId = context.getMessageID();
 		LOGGER.info("messageId:{} ", messageId);
 
@@ -23,10 +21,7 @@ public class PizzashackSearchByIdRecieveMediator extends AbstractMediator {
 		String bodyStr = soapBody.getText();
 		LOGGER.info("soapBody:{} ", bodyStr);
 
-		String prop = (String) context.getProperty("testProperty");
-		LOGGER.info("get testProperty:{} ", prop);
-
-		LOGGER.info("PizzashackSearchByIdRecieveMediator end:{} ");
+		LOGGER.info("PizzashackOrderRequestInterceptor end:{} ");
 		return true;
 	}
 

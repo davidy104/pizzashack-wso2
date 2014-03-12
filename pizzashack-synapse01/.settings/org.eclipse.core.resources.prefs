@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackApiEP.esb=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackApiEP.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackOrderEP.esb=UTF-8
+encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackOrderEP.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackOrderProxy.esb=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackOrderProxy.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackSearchByIdProxy.esb=UTF-8
+encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackSearchByIdProxy.esb_diagram=UTF-8

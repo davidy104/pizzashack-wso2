@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="PizzashackApiEP" groupId="com.example.pizzashack.synapse.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/PizzashackApiEP.xml</file>
+    </artifact>
+    <artifact name="PizzashackOrderEP" groupId="com.example.pizzashack.synapse.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/PizzashackOrderEP.xml</file>
+    </artifact>
+    <artifact name="PizzashackSearchByIdProxy" groupId="com.example.pizzashack.synapse.proxy-service" version="1.0.0" type="synapse/proxy-service" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/proxy-services/PizzashackSearchByIdProxy.xml</file>
+    </artifact>
+    <artifact name="PizzashackOrderProxy" groupId="com.example.pizzashack.synapse.proxy-service" version="1.0.0" type="synapse/proxy-service" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/proxy-services/PizzashackOrderProxy.xml</file>
+    </artifact>
+</artifacts>

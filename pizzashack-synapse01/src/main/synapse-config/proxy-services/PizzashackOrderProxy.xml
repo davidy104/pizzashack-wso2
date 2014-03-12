@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proxy xmlns="http://ws.apache.org/ns/synapse" name="PizzashackOrderProxy" transports="https http" startOnLoad="true" trace="disable">
+    <target>
+        <inSequence>
+            <property name="OUT_ONLY" value="true" scope="default" type="STRING"/>
+            <property name="transport.jms.ContentTypeProperty" value="Content-Type" scope="axis2" type="STRING"/>
+            <class name="com.pizzashack.PizzashackOrderRequestInterceptor" description="beforeorder"/>
+            <log level="full" description="log:request"/>
+            <send>
+                <endpoint key="PizzashackOrderEP"/>
+            </send>
+        </inSequence>
+        <outSequence>
+            <log level="full" description="log:response"/>
+            <property name="TRANSPORT_HEADERS" scope="axis2" action="remove"/>
+            <send/>
+        </outSequence>
+        <faultSequence/>
+    </target>
+</proxy>
