@@ -11,4 +11,13 @@
     <artifact name="PizzashackOrderProxy" groupId="com.example.pizzashack.synapse.proxy-service" version="1.0.0" type="synapse/proxy-service" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/proxy-services/PizzashackOrderProxy.xml</file>
     </artifact>
-</artifacts>
+    <artifact name="JMSMS" groupId="com.example.pizzashack.synapse.message-store" version="1.0.0" type="synapse/message-store" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/message-stores/JMSMS.xml</file>
+    </artifact>
+    <artifact name="replySequence" groupId="com.example.pizzashack.synapse.sequence" version="1.0.0" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/sequences/replySequence.xml</file>
+    </artifact>
+    <artifact name="OrderMsgProcessor" groupId="com.example.pizzashack.synapse.message-processors" version="1.0.0" type="synapse/message-processors" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/message-processors/OrderMsgProcessor.xml</file>
+    </artifact>
+    </artifacts>

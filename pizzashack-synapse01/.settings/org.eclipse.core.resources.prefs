@@ -3,7 +3,13 @@ encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackApiEP.e
 encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackApiEP.esb_diagram=UTF-8
 encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackOrderEP.esb=UTF-8
 encoding//src/main/graphical-synapse-config/endpoints/endpoint_PizzashackOrderEP.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/message-processors/messageProcessor_OrderMsgProcessor.esb=UTF-8
+encoding//src/main/graphical-synapse-config/message-processors/messageProcessor_OrderMsgProcessor.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/message-stores/messageStore_JMSMS.esb=UTF-8
+encoding//src/main/graphical-synapse-config/message-stores/messageStore_JMSMS.esb_diagram=UTF-8
 encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackOrderProxy.esb=UTF-8
 encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackOrderProxy.esb_diagram=UTF-8
 encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackSearchByIdProxy.esb=UTF-8
 encoding//src/main/graphical-synapse-config/proxy-services/proxy_PizzashackSearchByIdProxy.esb_diagram=UTF-8
+encoding//src/main/graphical-synapse-config/sequences/sequence_replySequence.esb=UTF-8
+encoding//src/main/graphical-synapse-config/sequences/sequence_replySequence.esb_diagram=UTF-8

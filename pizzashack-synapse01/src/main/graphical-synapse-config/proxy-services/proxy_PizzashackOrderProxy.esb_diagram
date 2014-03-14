@@ -2,302 +2,258 @@
 <notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/developerstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_MJBVcKmaEeOSWM_weHIJuQ" type="Esb" name="proxy_PizzashackOrderProxy.esb_diagram" measurementUnit="Pixel">
   <children xmi:type="notation:Node" xmi:id="_MSbwIKmaEeOSWM_weHIJuQ" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_MSbwJamaEeOSWM_weHIJuQ" type="7001">
-      <children xmi:type="notation:Node" xmi:id="_WLQ2cKmaEeOSWM_weHIJuQ" type="3001">
-        <children xmi:type="notation:DecorationNode" xmi:id="_WLRdgKmaEeOSWM_weHIJuQ" type="5003"/>
-        <children xmi:type="notation:Node" xmi:id="_WLSroKmaEeOSWM_weHIJuQ" type="3002">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLTSsKmaEeOSWM_weHIJuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_WLTSsamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_WLTSsqmaEeOSWM_weHIJuQ"/>
+      <children xmi:type="notation:Node" xmi:id="_qYxAYKowEeOhE-IJ0Ek21g" type="3001">
+        <children xmi:type="notation:DecorationNode" xmi:id="_qYxAZaowEeOhE-IJ0Ek21g" type="5003"/>
+        <children xmi:type="notation:Node" xmi:id="_qY8mkKowEeOhE-IJ0Ek21g" type="3002">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qY8mkaowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_qY8mkqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_qY8mk6owEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:ProxyOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@outputConnector"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLTSs6maEeOSWM_weHIJuQ" x="81" y="-27"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qY8mlKowEeOhE-IJ0Ek21g" x="81" y="-27"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_WLTStKmaEeOSWM_weHIJuQ" type="3003">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLTStamaEeOSWM_weHIJuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_WLTStqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_WLTSt6maEeOSWM_weHIJuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_qY9NoKowEeOhE-IJ0Ek21g" type="3003">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qY9NoaowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_qY9NoqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_qY9No6owEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:ProxyInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@inputConnector"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLTSuKmaEeOSWM_weHIJuQ" x="81" y="-15"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qY9NpKowEeOhE-IJ0Ek21g" x="81" y="-15"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_WLT5wKmaEeOSWM_weHIJuQ" type="3729">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLT5wamaEeOSWM_weHIJuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_WLT5wqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_WLT5w6maEeOSWM_weHIJuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_qY90sKowEeOhE-IJ0Ek21g" type="3729">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qY90saowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_qY90sqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_qY90s6owEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:ProxyOutSequenceOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@outSequenceOutputConnector"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLT5xKmaEeOSWM_weHIJuQ" x="105" y="-15"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qY90tKowEeOhE-IJ0Ek21g" x="105" y="-15"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_WLT5xamaEeOSWM_weHIJuQ" type="3489">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLT5xqmaEeOSWM_weHIJuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_WLT5x6maEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_WLT5yKmaEeOSWM_weHIJuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_qY90taowEeOhE-IJ0Ek21g" type="3489">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qY90tqowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_qY90t6owEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_qY90uKowEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:ProxyFaultInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@faultInputConnector"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLT5yamaEeOSWM_weHIJuQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qY90uaowEeOhE-IJ0Ek21g"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_WLUg0KmaEeOSWM_weHIJuQ" type="3486">
-          <children xmi:type="notation:Node" xmi:id="_WLZZUKmaEeOSWM_weHIJuQ" type="3487">
-            <children xmi:type="notation:Node" xmi:id="_WLancKmaEeOSWM_weHIJuQ" type="3608">
-              <children xmi:type="notation:DecorationNode" xmi:id="_WLandamaEeOSWM_weHIJuQ" type="7034">
-                <children xmi:type="notation:Node" xmi:id="_WLzB8KmaEeOSWM_weHIJuQ" type="3492">
-                  <children xmi:type="notation:DecorationNode" xmi:id="_WLzpAKmaEeOSWM_weHIJuQ" type="5167"/>
-                  <children xmi:type="notation:Node" xmi:id="_WL2sUKmaEeOSWM_weHIJuQ" type="3033">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WL2sUamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WL2sUqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WL2sU6maEeOSWM_weHIJuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_qY-bwKowEeOhE-IJ0Ek21g" type="3486">
+          <children xmi:type="notation:Node" xmi:id="_qZMeMKowEeOhE-IJ0Ek21g" type="3487">
+            <children xmi:type="notation:Node" xmi:id="_qZNFQKowEeOhE-IJ0Ek21g" type="3608">
+              <children xmi:type="notation:DecorationNode" xmi:id="_qZNsUKowEeOhE-IJ0Ek21g" type="7034">
+                <children xmi:type="notation:Node" xmi:id="_qZmG0KowEeOhE-IJ0Ek21g" type="3492">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_qZmt4KowEeOhE-IJ0Ek21g" type="5167"/>
+                  <children xmi:type="notation:Node" xmi:id="_qZpKIKowEeOhE-IJ0Ek21g" type="3033">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qZpKIaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qZpKIqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qZpKI6owEeOhE-IJ0Ek21g"/>
                     <element xmi:type="esb:PropertyMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.0/@inputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WL2sVKmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qZpKJKowEeOhE-IJ0Ek21g" x="-6" y="-5"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WL3TYKmaEeOSWM_weHIJuQ" type="3034">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WL3TYamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WL3TYqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WL3TY6maEeOSWM_weHIJuQ"/>
+                  <children xmi:type="notation:Node" xmi:id="_qZpxMKowEeOhE-IJ0Ek21g" type="3034">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qZpxMaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qZpxMqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qZpxM6owEeOhE-IJ0Ek21g"/>
                     <element xmi:type="esb:PropertyMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.0/@outputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WL3TZKmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qZpxNKowEeOhE-IJ0Ek21g" x="-11" y="-9"/>
                   </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLzB8amaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_WLzB8qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_WLzB86maEeOSWM_weHIJuQ"/>
+                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_qZmG0aowEeOhE-IJ0Ek21g"/>
+                  <styles xmi:type="notation:FontStyle" xmi:id="_qZmG0qowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                  <styles xmi:type="notation:LineStyle" xmi:id="_qZmG06owEeOhE-IJ0Ek21g"/>
                   <element xmi:type="esb:PropertyMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.0"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLzB9KmaEeOSWM_weHIJuQ" x="25" y="58" width="77" height="75"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qZmG1KowEeOhE-IJ0Ek21g" x="46" y="48" width="79" height="75"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_WMEuwKmaEeOSWM_weHIJuQ" type="3492">
-                  <children xmi:type="notation:DecorationNode" xmi:id="_WMFV0KmaEeOSWM_weHIJuQ" type="5167"/>
-                  <children xmi:type="notation:Node" xmi:id="_WMIZIKmaEeOSWM_weHIJuQ" type="3033">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMIZIamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMIZIqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMIZI6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:PropertyMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1/@inputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMIZJKmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
+                <children xmi:type="notation:Node" xmi:id="_qaKukKowEeOhE-IJ0Ek21g" type="3495">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_qaKulaowEeOhE-IJ0Ek21g" type="5168"/>
+                  <children xmi:type="notation:Node" xmi:id="_qaTRcKowEeOhE-IJ0Ek21g" type="3018">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qaTRcaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qaTRcqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qaTRc6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:LogMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1/@inputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qaTRdKowEeOhE-IJ0Ek21g" x="-6" y="-5"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WMIZJamaEeOSWM_weHIJuQ" type="3034">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMIZJqmaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMIZJ6maEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMIZKKmaEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:PropertyMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1/@outputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMIZKamaEeOSWM_weHIJuQ" x="-11" y="-9"/>
+                  <children xmi:type="notation:Node" xmi:id="_qaTRdaowEeOhE-IJ0Ek21g" type="3019">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qaTRdqowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qaTRd6owEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qaTReKowEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:LogMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1/@outputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qaTReaowEeOhE-IJ0Ek21g" x="-11" y="-9"/>
                   </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMEuwamaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_WMEuwqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_WMEuw6maEeOSWM_weHIJuQ"/>
-                  <element xmi:type="esb:PropertyMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMEuxKmaEeOSWM_weHIJuQ" x="142" y="58" width="77" height="75"/>
+                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_qaKukaowEeOhE-IJ0Ek21g"/>
+                  <styles xmi:type="notation:FontStyle" xmi:id="_qaKukqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                  <styles xmi:type="notation:LineStyle" xmi:id="_qaKuk6owEeOhE-IJ0Ek21g"/>
+                  <element xmi:type="esb:LogMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qaKulKowEeOhE-IJ0Ek21g" x="259" y="58" width="77" height="75"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_WMWbkKmaEeOSWM_weHIJuQ" type="3506">
-                  <children xmi:type="notation:DecorationNode" xmi:id="_WMXCoKmaEeOSWM_weHIJuQ" type="5173"/>
-                  <children xmi:type="notation:Node" xmi:id="_WMaF8KmaEeOSWM_weHIJuQ" type="3058">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMaF8amaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMaF8qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMaF86maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:ClassMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@inputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMaF9KmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
+                <children xmi:type="notation:Node" xmi:id="_qafesKowEeOhE-IJ0Ek21g" type="3515">
+                  <children xmi:type="notation:Node" xmi:id="_qajwIKowEeOhE-IJ0Ek21g" type="3085">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qajwIaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qajwIqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qajwI6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:SendMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@InputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qajwJKowEeOhE-IJ0Ek21g" x="-6" y="-5"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WMatAKmaEeOSWM_weHIJuQ" type="3059">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMatAamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMatAqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMatA6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:ClassMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@outputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMatBKmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
+                  <children xmi:type="notation:Node" xmi:id="_qakXMKowEeOhE-IJ0Ek21g" type="3086">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qakXMaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qakXMqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qakXM6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:SendMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@OutputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qakXNKowEeOhE-IJ0Ek21g" x="-11" y="-9"/>
                   </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMWbkamaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_WMWbkqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_WMWbk6maEeOSWM_weHIJuQ"/>
-                  <element xmi:type="esb:ClassMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMWblKmaEeOSWM_weHIJuQ" x="259" y="58" width="77" height="75"/>
-                </children>
-                <children xmi:type="notation:Node" xmi:id="_WMpWgKmaEeOSWM_weHIJuQ" type="3515">
-                  <children xmi:type="notation:Node" xmi:id="_WMrywKmaEeOSWM_weHIJuQ" type="3085">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMrywamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMrywqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMryw6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:SendMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@InputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMryxKmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
+                  <children xmi:type="notation:Node" xmi:id="_qak-QKowEeOhE-IJ0Ek21g" type="3539">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qak-QaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qak-QqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qak-Q6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:SendMediatorEndpointOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@endpointOutputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qak-RKowEeOhE-IJ0Ek21g"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WMsZ0KmaEeOSWM_weHIJuQ" type="3086">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMsZ0amaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMsZ0qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMsZ06maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:SendMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@OutputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMsZ1KmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
-                  </children>
-                  <children xmi:type="notation:Node" xmi:id="_WMtA4KmaEeOSWM_weHIJuQ" type="3539">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMtA4amaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMtA4qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMtA46maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:SendMediatorEndpointOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@endpointOutputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMtA5KmaEeOSWM_weHIJuQ"/>
-                  </children>
-                  <children xmi:type="notation:Node" xmi:id="_WMtn8KmaEeOSWM_weHIJuQ" type="3728">
-                    <children xmi:type="notation:DecorationNode" xmi:id="_WMuPAKmaEeOSWM_weHIJuQ" type="7046">
-                      <children xmi:type="notation:Node" xmi:id="_WNCYEKmaEeOSWM_weHIJuQ" type="3660">
-                        <children xmi:type="notation:DecorationNode" xmi:id="_WNC_IKmaEeOSWM_weHIJuQ" type="5165"/>
-                        <children xmi:type="notation:Node" xmi:id="_WNGpgKmaEeOSWM_weHIJuQ" type="3661">
-                          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNGpgamaEeOSWM_weHIJuQ"/>
-                          <styles xmi:type="notation:FontStyle" xmi:id="_WNGpgqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                          <styles xmi:type="notation:LineStyle" xmi:id="_WNGpg6maEeOSWM_weHIJuQ"/>
-                          <element xmi:type="esb:NamedEndpointInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@mediatorFlow/@children.0/@inputConnector"/>
-                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNGphKmaEeOSWM_weHIJuQ"/>
+                  <children xmi:type="notation:Node" xmi:id="_qak-RaowEeOhE-IJ0Ek21g" type="3728">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_qallUKowEeOhE-IJ0Ek21g" type="7046">
+                      <children xmi:type="notation:Node" xmi:id="_qaxLgKowEeOhE-IJ0Ek21g" type="3660">
+                        <children xmi:type="notation:DecorationNode" xmi:id="_qaxLhaowEeOhE-IJ0Ek21g" type="5165"/>
+                        <children xmi:type="notation:Node" xmi:id="_qa0O0KowEeOhE-IJ0Ek21g" type="3661">
+                          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qa0O0aowEeOhE-IJ0Ek21g"/>
+                          <styles xmi:type="notation:FontStyle" xmi:id="_qa0O0qowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                          <styles xmi:type="notation:LineStyle" xmi:id="_qa0O06owEeOhE-IJ0Ek21g"/>
+                          <element xmi:type="esb:NamedEndpointInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@mediatorFlow/@children.0/@inputConnector"/>
+                          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qa0O1KowEeOhE-IJ0Ek21g"/>
                         </children>
-                        <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNCYEamaEeOSWM_weHIJuQ"/>
-                        <styles xmi:type="notation:FontStyle" xmi:id="_WNCYEqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                        <styles xmi:type="notation:LineStyle" xmi:id="_WNCYE6maEeOSWM_weHIJuQ"/>
-                        <element xmi:type="esb:NamedEndpoint" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@mediatorFlow/@children.0"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNCYFKmaEeOSWM_weHIJuQ" x="5" y="103"/>
+                        <styles xmi:type="notation:DescriptionStyle" xmi:id="_qaxLgaowEeOhE-IJ0Ek21g"/>
+                        <styles xmi:type="notation:FontStyle" xmi:id="_qaxLgqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                        <styles xmi:type="notation:LineStyle" xmi:id="_qaxLg6owEeOhE-IJ0Ek21g"/>
+                        <element xmi:type="esb:NamedEndpoint" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@mediatorFlow/@children.0"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qaxLhKowEeOhE-IJ0Ek21g" x="5" y="103"/>
                       </children>
-                      <styles xmi:type="notation:TitleStyle" xmi:id="_WMuPAamaEeOSWM_weHIJuQ" showTitle="true"/>
+                      <styles xmi:type="notation:TitleStyle" xmi:id="_qallUaowEeOhE-IJ0Ek21g" showTitle="true"/>
                     </children>
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMtn8amaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WMtn8qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WMtn86maEeOSWM_weHIJuQ"/>
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qak-RqowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qak-R6owEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qak-SKowEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:MediatorFlow" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@mediatorFlow"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qak-SaowEeOhE-IJ0Ek21g"/>
+                  </children>
+                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_qafesaowEeOhE-IJ0Ek21g"/>
+                  <styles xmi:type="notation:FontStyle" xmi:id="_qafesqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                  <styles xmi:type="notation:LineStyle" xmi:id="_qafes6owEeOhE-IJ0Ek21g"/>
+                  <element xmi:type="esb:SendMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qafetKowEeOhE-IJ0Ek21g" x="376" y="58" width="170" height="100"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_qa8KoKowEeOhE-IJ0Ek21g" type="3515">
+                  <children xmi:type="notation:Node" xmi:id="_qbAcEKowEeOhE-IJ0Ek21g" type="3085">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbAcEaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbAcEqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbAcE6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:SendMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@InputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbAcFKowEeOhE-IJ0Ek21g" x="-6" y="-5"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_qbAcFaowEeOhE-IJ0Ek21g" type="3086">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbBDIKowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbBDIaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbBDIqowEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:SendMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@OutputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbBDI6owEeOhE-IJ0Ek21g" x="-11" y="-9"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_qbBDJKowEeOhE-IJ0Ek21g" type="3539">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbBDJaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbBDJqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbBDJ6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:SendMediatorEndpointOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@endpointOutputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbBDKKowEeOhE-IJ0Ek21g"/>
+                  </children>
+                  <children xmi:type="notation:Node" xmi:id="_qbBqMKowEeOhE-IJ0Ek21g" type="3728">
+                    <children xmi:type="notation:DecorationNode" xmi:id="_qbBqNaowEeOhE-IJ0Ek21g" type="7046">
+                      <styles xmi:type="notation:TitleStyle" xmi:id="_qbBqNqowEeOhE-IJ0Ek21g" showTitle="true"/>
+                    </children>
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbBqMaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbBqMqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbBqM6owEeOhE-IJ0Ek21g"/>
                     <element xmi:type="esb:MediatorFlow" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@mediatorFlow"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMtn9KmaEeOSWM_weHIJuQ"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbBqNKowEeOhE-IJ0Ek21g"/>
                   </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_WMpWgamaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_WMpWgqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_WMpWg6maEeOSWM_weHIJuQ"/>
+                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_qa8KoaowEeOhE-IJ0Ek21g"/>
+                  <styles xmi:type="notation:FontStyle" xmi:id="_qa8KoqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                  <styles xmi:type="notation:LineStyle" xmi:id="_qa8Ko6owEeOhE-IJ0Ek21g"/>
                   <element xmi:type="esb:SendMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WMpWhKmaEeOSWM_weHIJuQ" x="376" y="58" width="170" height="100"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qa8KpKowEeOhE-IJ0Ek21g" x="46" y="225" width="270" height="100"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_WNRooKmaEeOSWM_weHIJuQ" type="3515">
-                  <children xmi:type="notation:Node" xmi:id="_WNUr8KmaEeOSWM_weHIJuQ" type="3085">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNUr8amaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WNUr8qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WNUr86maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:SendMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@InputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNUr9KmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
+                <children xmi:type="notation:Node" xmi:id="_qbOegKowEeOhE-IJ0Ek21g" type="3492">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_qbOehaowEeOhE-IJ0Ek21g" type="5167"/>
+                  <children xmi:type="notation:Node" xmi:id="_qbQTsKowEeOhE-IJ0Ek21g" type="3033">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbQTsaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbQTsqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbQTs6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:PropertyMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@inputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbQTtKowEeOhE-IJ0Ek21g" x="-6" y="-5"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WNVTAKmaEeOSWM_weHIJuQ" type="3086">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNVTAamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WNVTAqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WNVTA6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:SendMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@OutputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNVTBKmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
+                  <children xmi:type="notation:Node" xmi:id="_qbQ6wKowEeOhE-IJ0Ek21g" type="3034">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbQ6waowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbQ6wqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbQ6w6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:PropertyMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@outputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbQ6xKowEeOhE-IJ0Ek21g" x="-11" y="-9"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WNV6EKmaEeOSWM_weHIJuQ" type="3539">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNV6EamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WNV6EqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WNV6E6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:SendMediatorEndpointOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@endpointOutputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNV6FKmaEeOSWM_weHIJuQ"/>
-                  </children>
-                  <children xmi:type="notation:Node" xmi:id="_WNXIMKmaEeOSWM_weHIJuQ" type="3728">
-                    <children xmi:type="notation:DecorationNode" xmi:id="_WNXvQKmaEeOSWM_weHIJuQ" type="7046">
-                      <styles xmi:type="notation:TitleStyle" xmi:id="_WNXvQamaEeOSWM_weHIJuQ" showTitle="true"/>
-                    </children>
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNXIMamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WNXIMqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WNXIM6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:MediatorFlow" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@mediatorFlow"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNXINKmaEeOSWM_weHIJuQ"/>
-                  </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNRooamaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_WNRooqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_WNRoo6maEeOSWM_weHIJuQ"/>
-                  <element xmi:type="esb:SendMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNRopKmaEeOSWM_weHIJuQ" x="25" y="200" width="270" height="100"/>
+                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbOegaowEeOhE-IJ0Ek21g"/>
+                  <styles xmi:type="notation:FontStyle" xmi:id="_qbOegqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                  <styles xmi:type="notation:LineStyle" xmi:id="_qbOeg6owEeOhE-IJ0Ek21g"/>
+                  <element xmi:type="esb:PropertyMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbOehKowEeOhE-IJ0Ek21g" x="235" y="200" width="77" height="75"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_WNrRQKmaEeOSWM_weHIJuQ" type="3492">
-                  <children xmi:type="notation:DecorationNode" xmi:id="_WNr4UKmaEeOSWM_weHIJuQ" type="5167"/>
-                  <children xmi:type="notation:Node" xmi:id="_WNuUkKmaEeOSWM_weHIJuQ" type="3033">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNuUkamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WNuUkqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WNuUk6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:PropertyMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5/@inputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNuUlKmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
+                <children xmi:type="notation:Node" xmi:id="_qbb54KowEeOhE-IJ0Ek21g" type="3495">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_qbcg8KowEeOhE-IJ0Ek21g" type="5168"/>
+                  <children xmi:type="notation:Node" xmi:id="_qbdvEKowEeOhE-IJ0Ek21g" type="3018">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbdvEaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbdvEqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbdvE6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:LogMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5/@inputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbdvFKowEeOhE-IJ0Ek21g" x="-6" y="-5"/>
                   </children>
-                  <children xmi:type="notation:Node" xmi:id="_WNu7oKmaEeOSWM_weHIJuQ" type="3034">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNu7oamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_WNu7oqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_WNu7o6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:PropertyMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5/@outputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNu7pKmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
+                  <children xmi:type="notation:Node" xmi:id="_qbeWIKowEeOhE-IJ0Ek21g" type="3019">
+                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbeWIaowEeOhE-IJ0Ek21g"/>
+                    <styles xmi:type="notation:FontStyle" xmi:id="_qbeWIqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                    <styles xmi:type="notation:LineStyle" xmi:id="_qbeWI6owEeOhE-IJ0Ek21g"/>
+                    <element xmi:type="esb:LogMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5/@outputConnector"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbeWJKowEeOhE-IJ0Ek21g" x="-11" y="-9"/>
                   </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_WNrRQamaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_WNrRQqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_WNrRQ6maEeOSWM_weHIJuQ"/>
-                  <element xmi:type="esb:PropertyMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WNrRRKmaEeOSWM_weHIJuQ" x="235" y="200" width="77" height="75"/>
+                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_qbb54aowEeOhE-IJ0Ek21g"/>
+                  <styles xmi:type="notation:FontStyle" xmi:id="_qbb54qowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+                  <styles xmi:type="notation:LineStyle" xmi:id="_qbb546owEeOhE-IJ0Ek21g"/>
+                  <element xmi:type="esb:LogMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbb55KowEeOhE-IJ0Ek21g" x="352" y="200" width="77" height="75"/>
                 </children>
-                <children xmi:type="notation:Node" xmi:id="_hRrKMKmaEeOSWM_weHIJuQ" type="3495">
-                  <children xmi:type="notation:DecorationNode" xmi:id="_hRrxQKmaEeOSWM_weHIJuQ" type="5168"/>
-                  <children xmi:type="notation:Node" xmi:id="_hRu0kKmaEeOSWM_weHIJuQ" type="3018">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_hRu0kamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_hRu0kqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_hRu0k6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:LogMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.6/@inputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hRu0lKmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
-                  </children>
-                  <children xmi:type="notation:Node" xmi:id="_hRvboKmaEeOSWM_weHIJuQ" type="3019">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_hRvboamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_hRvboqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_hRvbo6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:LogMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.6/@outputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hRvbpKmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
-                  </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_hRrKMamaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_hRrKMqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_hRrKM6maEeOSWM_weHIJuQ"/>
-                  <element xmi:type="esb:LogMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.6"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hRrKNKmaEeOSWM_weHIJuQ" x="406" y="84"/>
-                </children>
-                <children xmi:type="notation:Node" xmi:id="_lM7e0KmaEeOSWM_weHIJuQ" type="3495">
-                  <children xmi:type="notation:DecorationNode" xmi:id="_lM8F4KmaEeOSWM_weHIJuQ" type="5168"/>
-                  <children xmi:type="notation:Node" xmi:id="_lM97EKmaEeOSWM_weHIJuQ" type="3018">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_lM97EamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_lM97EqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_lM97E6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:LogMediatorInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.7/@inputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lM97FKmaEeOSWM_weHIJuQ" x="-6" y="-5"/>
-                  </children>
-                  <children xmi:type="notation:Node" xmi:id="_lM-iIKmaEeOSWM_weHIJuQ" type="3019">
-                    <styles xmi:type="notation:DescriptionStyle" xmi:id="_lM-iIamaEeOSWM_weHIJuQ"/>
-                    <styles xmi:type="notation:FontStyle" xmi:id="_lM-iIqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                    <styles xmi:type="notation:LineStyle" xmi:id="_lM-iI6maEeOSWM_weHIJuQ"/>
-                    <element xmi:type="esb:LogMediatorOutputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.7/@outputConnector"/>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lM-iJKmaEeOSWM_weHIJuQ" x="-11" y="-9"/>
-                  </children>
-                  <styles xmi:type="notation:DescriptionStyle" xmi:id="_lM7e0amaEeOSWM_weHIJuQ"/>
-                  <styles xmi:type="notation:FontStyle" xmi:id="_lM7e0qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-                  <styles xmi:type="notation:LineStyle" xmi:id="_lM7e06maEeOSWM_weHIJuQ"/>
-                  <element xmi:type="esb:LogMediator" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.7"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lM7e1KmaEeOSWM_weHIJuQ" x="542" y="268"/>
-                </children>
-                <styles xmi:type="notation:TitleStyle" xmi:id="_WLandqmaEeOSWM_weHIJuQ" showTitle="true"/>
+                <styles xmi:type="notation:TitleStyle" xmi:id="_qZNsUaowEeOhE-IJ0Ek21g" showTitle="true"/>
               </children>
-              <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLancamaEeOSWM_weHIJuQ"/>
-              <styles xmi:type="notation:FontStyle" xmi:id="_WLancqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-              <styles xmi:type="notation:LineStyle" xmi:id="_WLanc6maEeOSWM_weHIJuQ"/>
+              <styles xmi:type="notation:DescriptionStyle" xmi:id="_qZNFQaowEeOhE-IJ0Ek21g"/>
+              <styles xmi:type="notation:FontStyle" xmi:id="_qZNFQqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+              <styles xmi:type="notation:LineStyle" xmi:id="_qZNFQ6owEeOhE-IJ0Ek21g"/>
               <element xmi:type="esb:MediatorFlow" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLandKmaEeOSWM_weHIJuQ"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qZNFRKowEeOhE-IJ0Ek21g"/>
             </children>
-            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLZZUamaEeOSWM_weHIJuQ"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_WLZZUqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-            <styles xmi:type="notation:LineStyle" xmi:id="_WLZZU6maEeOSWM_weHIJuQ"/>
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_qZMeMaowEeOhE-IJ0Ek21g"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_qZMeMqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_qZMeM6owEeOhE-IJ0Ek21g"/>
             <element xmi:type="esb:ProxyServiceSequenceAndEndpointContainer" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLZZVKmaEeOSWM_weHIJuQ"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qZMeNKowEeOhE-IJ0Ek21g"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_WLZZVamaEeOSWM_weHIJuQ" type="3488">
-            <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLZZVqmaEeOSWM_weHIJuQ"/>
-            <styles xmi:type="notation:FontStyle" xmi:id="_WLZZV6maEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-            <styles xmi:type="notation:LineStyle" xmi:id="_WLZZWKmaEeOSWM_weHIJuQ"/>
+          <children xmi:type="notation:Node" xmi:id="_qZMeNaowEeOhE-IJ0Ek21g" type="3488">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_qZMeNqowEeOhE-IJ0Ek21g"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_qZMeN6owEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_qZMeOKowEeOhE-IJ0Ek21g"/>
             <element xmi:type="esb:ProxyServiceFaultContainer" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@faultContainer"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLZZWamaEeOSWM_weHIJuQ"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qZMeOaowEeOhE-IJ0Ek21g"/>
           </children>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLUg0amaEeOSWM_weHIJuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_WLUg0qmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_WLUg06maEeOSWM_weHIJuQ"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qY-bwaowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_qY-bwqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_qY-bw6owEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:ProxyServiceContainer" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLUg1KmaEeOSWM_weHIJuQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qY-bxKowEeOhE-IJ0Ek21g"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_WM8RcKmaEeOSWM_weHIJuQ" type="3731">
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_WM8RcamaEeOSWM_weHIJuQ"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_WM8RcqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_WM8Rc6maEeOSWM_weHIJuQ"/>
+        <children xmi:type="notation:Node" xmi:id="_qas6EKowEeOhE-IJ0Ek21g" type="3731">
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_qas6EaowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_qas6EqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_qas6E6owEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:ProxyInSequenceInputConnector" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@inSequenceInputConnectors.0"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WM8RdKmaEeOSWM_weHIJuQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qas6FKowEeOhE-IJ0Ek21g"/>
         </children>
-        <styles xmi:type="notation:DescriptionStyle" xmi:id="_WLQ2camaEeOSWM_weHIJuQ"/>
-        <styles xmi:type="notation:FontStyle" xmi:id="_WLQ2cqmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-        <styles xmi:type="notation:LineStyle" xmi:id="_WLQ2c6maEeOSWM_weHIJuQ"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_qYxAYaowEeOhE-IJ0Ek21g"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_qYxAYqowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_qYxAY6owEeOhE-IJ0Ek21g"/>
         <element xmi:type="esb:ProxyService" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WLQ2dKmaEeOSWM_weHIJuQ" width="300" height="400"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qYxAZKowEeOhE-IJ0Ek21g" width="300" height="400"/>
       </children>
     </children>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_MSbwIamaEeOSWM_weHIJuQ"/>
@@ -308,59 +264,49 @@
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_MJBVcamaEeOSWM_weHIJuQ"/>
   <element xmi:type="esb:EsbDiagram" href="proxy_PizzashackOrderProxy.esb#/"/>
-  <edges xmi:type="notation:Connector" xmi:id="_WOSVQKmaEeOSWM_weHIJuQ" type="4001" source="_WLSroKmaEeOSWM_weHIJuQ" target="_WL2sUKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WOSVQamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
+  <edges xmi:type="notation:Connector" xmi:id="_qb2woKowEeOhE-IJ0Ek21g" type="4001" source="_qY8mkKowEeOhE-IJ0Ek21g" target="_qZpKIKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qb2woaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
     <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WOSVQqmaEeOSWM_weHIJuQ" points="[11, 5, -5, 0]$[10, 0, -6, -5]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qb2woqowEeOhE-IJ0Ek21g" points="[11, 5, -5, 0]$[10, 0, -6, -5]"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_WOaREKmaEeOSWM_weHIJuQ" type="4001" source="_WL3TYKmaEeOSWM_weHIJuQ" target="_WMIZIKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WOaREamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.0/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WOaREqmaEeOSWM_weHIJuQ" points="[-11, 0, -6, 0]$[1, 0, 6, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_WOg-wKmaEeOSWM_weHIJuQ" type="4001" source="_WMIZJamaEeOSWM_weHIJuQ" target="_WMaF8KmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WOg-wamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
+  <edges xmi:type="notation:Connector" xmi:id="_qcH2YKowEeOhE-IJ0Ek21g" type="4001" source="_qaTRdaowEeOhE-IJ0Ek21g" target="_qajwIKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcH2YaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
     <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.1/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WOg-wqmaEeOSWM_weHIJuQ" points="[-11, 0, -6, 0]$[1, 0, 6, 0]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcH2YqowEeOhE-IJ0Ek21g" points="[-11, 0, -6, 0]$[1, 0, 6, 0]"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_WOr94KmaEeOSWM_weHIJuQ" type="4001" source="_WNVTAKmaEeOSWM_weHIJuQ" target="_WLTStKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WOsk8KmaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@OutputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WOsk8amaEeOSWM_weHIJuQ" points="[-11, 7, 10, 0]$[-10, 0, 11, -7]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_WOw2YKmaEeOSWM_weHIJuQ" type="4001" source="_WNu7oKmaEeOSWM_weHIJuQ" target="_WNUr8KmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WOw2YamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WOw2YqmaEeOSWM_weHIJuQ" points="[-11, 0, -6, 0]$[1, 0, 6, 0]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_WPDxUKmaEeOSWM_weHIJuQ" type="4001" source="_WMtA4KmaEeOSWM_weHIJuQ" target="_WNGpgKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WPDxUamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@endpointOutputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WPDxUqmaEeOSWM_weHIJuQ" points="[2, 9, -31, -110]$[31, 114, -2, -5]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_WPM7QKmaEeOSWM_weHIJuQ" type="4001" source="_WMsZ0KmaEeOSWM_weHIJuQ" target="_WM8RcKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_WPM7QamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
+  <edges xmi:type="notation:Connector" xmi:id="_qcN9AKowEeOhE-IJ0Ek21g" type="4001" source="_qbAcFaowEeOhE-IJ0Ek21g" target="_qY9NoKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcN9AaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
     <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.3/@OutputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WPM7QqmaEeOSWM_weHIJuQ" points="[7, -9, -16, 18]$[18, -22, -5, 5]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcN9AqowEeOhE-IJ0Ek21g" points="[-11, 7, 10, 0]$[-10, 0, 11, -7]"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_hTDDMKmaEeOSWM_weHIJuQ" type="4001" source="_hRvboKmaEeOSWM_weHIJuQ" target="_WMrywKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_hTDDMamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.6/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hTDDMqmaEeOSWM_weHIJuQ" points="[11, 1, -10, 0]$[15, 0, -6, -1]"/>
+  <edges xmi:type="notation:Connector" xmi:id="_qcUDoKowEeOhE-IJ0Ek21g" type="4001" source="_qbQ6wKowEeOhE-IJ0Ek21g" target="_qbAcEKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcUDoaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.4/@outputConnector/@outgoingLink"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcUDoqowEeOhE-IJ0Ek21g" points="[-11, 0, -6, 0]$[1, 0, 6, 0]"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_hT1GUKmaEeOSWM_weHIJuQ" type="4001" source="_WMatAKmaEeOSWM_weHIJuQ" target="_hRu0kKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_hT1GUamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hT1GUqmaEeOSWM_weHIJuQ" points="[3, 5, -21, -31]$[20, 31, -4, -5]"/>
+  <edges xmi:type="notation:Connector" xmi:id="_qcZjMKowEeOhE-IJ0Ek21g" type="4001" source="_qbeWIKowEeOhE-IJ0Ek21g" target="_qbQTsKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcZjMaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.5/@outputConnector/@outgoingLink"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcZjMqowEeOhE-IJ0Ek21g" points="[-11, 0, -6, 0]$[1, 0, 6, 0]"/>
   </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_lNffgKmaEeOSWM_weHIJuQ" type="4001" source="_lM-iIKmaEeOSWM_weHIJuQ" target="_WNuUkKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_lNffgamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
-    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.7/@outputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lNffgqmaEeOSWM_weHIJuQ" points="[-11, 7, 94, 0]$[-99, 6, 6, -1]"/>
-  </edges>
-  <edges xmi:type="notation:Connector" xmi:id="_l87YYKmaEeOSWM_weHIJuQ" type="4001" source="_WLT5wKmaEeOSWM_weHIJuQ" target="_lM97EKmaEeOSWM_weHIJuQ" roundedBendpointsRadius="5" routing="Rectilinear">
-    <styles xmi:type="notation:FontStyle" xmi:id="_l87YYamaEeOSWM_weHIJuQ" fontName="Ubuntu"/>
+  <edges xmi:type="notation:Connector" xmi:id="_qcebsKowEeOhE-IJ0Ek21g" type="4001" source="_qY90sKowEeOhE-IJ0Ek21g" target="_qbdvEKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcebsaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
     <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@outSequenceOutputConnector/@outgoingLink"/>
-    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_l87YYqmaEeOSWM_weHIJuQ" points="[-6, 1, 406, 0]$[-406, 0, 6, -1]"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcebsqowEeOhE-IJ0Ek21g" points="[-11, -7, 7, 0]$[-12, -5, 6, 2]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_qcozwKowEeOhE-IJ0Ek21g" type="4001" source="_qak-QKowEeOhE-IJ0Ek21g" target="_qa0O0KowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcozwaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@endpointOutputConnector/@outgoingLink"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcozwqowEeOhE-IJ0Ek21g" points="[2, 9, -31, -110]$[31, 114, -2, -5]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_qcykwKowEeOhE-IJ0Ek21g" type="4001" source="_qakXMKowEeOhE-IJ0Ek21g" target="_qas6EKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_qcykwaowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.2/@OutputConnector/@outgoingLink"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qcykwqowEeOhE-IJ0Ek21g" points="[7, -9, -16, 18]$[18, -22, -5, 5]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_27DqAKo1EeOhE-IJ0Ek21g" type="4001" source="_qZpxMKowEeOhE-IJ0Ek21g" target="_qaTRcKowEeOhE-IJ0Ek21g" roundedBendpointsRadius="5" routing="Rectilinear">
+    <styles xmi:type="notation:FontStyle" xmi:id="_27DqAao1EeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+    <element xmi:type="esb:EsbLink" href="proxy_PizzashackOrderProxy.esb#//@server/@children.0/@container/@sequenceAndEndpointContainer/@mediatorFlow/@children.0/@outputConnector/@outgoingLink"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_27DqAqo1EeOhE-IJ0Ek21g" points="[6, 0, -173, 0]$[173, 0, -6, 0]"/>
   </edges>
 </notation:Diagram>

@@ -107,10 +107,9 @@
       <type>xml</type>
     </dependency>
     <dependency>
-      <groupId>com.example.pizzashack.synapse.proxy-service</groupId>
-      <artifactId>PizzashackSearchByIdProxy</artifactId>
+      <groupId>com.pizzashack.pizzashackmediator</groupId>
+      <artifactId>pizzashack-mediator</artifactId>
       <version>1.0.0</version>
-      <type>xml</type>
     </dependency>
     <dependency>
       <groupId>com.example.pizzashack.synapse.endpoint</groupId>
@@ -119,9 +118,10 @@
       <type>xml</type>
     </dependency>
     <dependency>
-      <groupId>com.pizzashack.pizzashackmediator</groupId>
-      <artifactId>pizzashack-mediator</artifactId>
+      <groupId>com.example.pizzashack.synapse.proxy-service</groupId>
+      <artifactId>PizzashackSearchByIdProxy</artifactId>
       <version>1.0.0</version>
+      <type>xml</type>
     </dependency>
     <dependency>
       <groupId>com.example.pizzashack.registryresource.resource</groupId>

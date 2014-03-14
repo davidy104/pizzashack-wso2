@@ -2,20 +2,20 @@
 <notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/developerstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_A8G4cKmXEeOp1LeDrwiX1w" type="Esb" name="endpoint_PizzashackOrderEP.esb_diagram" measurementUnit="Pixel">
   <children xmi:type="notation:Node" xmi:id="_A9JaQKmXEeOp1LeDrwiX1w" type="2001">
     <children xmi:type="notation:DecorationNode" xmi:id="_A9JaRamXEeOp1LeDrwiX1w" type="7001"/>
-    <children xmi:type="notation:Shape" xmi:id="_BBnDgKmXEeOp1LeDrwiX1w" type="3642" fontName="Ubuntu">
-      <children xmi:type="notation:BasicCompartment" xmi:id="_BBnDgqmXEeOp1LeDrwiX1w" type="7041">
-        <children xmi:type="notation:Node" xmi:id="_BByCoKmXEeOp1LeDrwiX1w" type="3646">
-          <children xmi:type="notation:DecorationNode" xmi:id="_BByCpamXEeOp1LeDrwiX1w" type="5161"/>
-          <styles xmi:type="notation:DescriptionStyle" xmi:id="_BByCoamXEeOp1LeDrwiX1w"/>
-          <styles xmi:type="notation:FontStyle" xmi:id="_BByCoqmXEeOp1LeDrwiX1w" fontName="Ubuntu"/>
-          <styles xmi:type="notation:LineStyle" xmi:id="_BByCo6mXEeOp1LeDrwiX1w"/>
+    <children xmi:type="notation:Shape" xmi:id="_TTvlkKowEeOhE-IJ0Ek21g" type="3642" fontName="Ubuntu">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_TTwMoKowEeOhE-IJ0Ek21g" type="7041">
+        <children xmi:type="notation:Node" xmi:id="_TT9A8KowEeOhE-IJ0Ek21g" type="3646">
+          <children xmi:type="notation:DecorationNode" xmi:id="_TT9A9aowEeOhE-IJ0Ek21g" type="5161"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_TT9A8aowEeOhE-IJ0Ek21g"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_TT9A8qowEeOhE-IJ0Ek21g" fontName="Ubuntu"/>
+          <styles xmi:type="notation:LineStyle" xmi:id="_TT9A86owEeOhE-IJ0Ek21g"/>
           <element xmi:type="esb:AddressEndPoint" href="endpoint_PizzashackOrderEP.esb#//@server/@children.0/@child"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BByCpKmXEeOp1LeDrwiX1w" width="75" height="75"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TT9A9KowEeOhE-IJ0Ek21g" width="75" height="75"/>
         </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_BBnDg6mXEeOp1LeDrwiX1w" showTitle="true"/>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_TTwMoaowEeOhE-IJ0Ek21g" showTitle="true"/>
       </children>
       <element xmi:type="esb:EndpointDiagram" href="endpoint_PizzashackOrderEP.esb#//@server/@children.0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BBnDgamXEeOp1LeDrwiX1w" width="110" height="100"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TTvlkaowEeOhE-IJ0Ek21g" width="110" height="100"/>
     </children>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_A9JaQamXEeOp1LeDrwiX1w"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_A9JaQqmXEeOp1LeDrwiX1w" fontName="Ubuntu"/>
